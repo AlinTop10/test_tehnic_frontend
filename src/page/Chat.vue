@@ -5,7 +5,7 @@
                {{ room }}
             </div>            
             <div class="users">
-                0 users in this room
+                <!--- as putea sa arat cat utilizaori sunt in chat-->>
             </div>
             <button class="left" @click="leftRoom()"> 
                 <!-- aici trebuie sa fac sa iasa din chat -->
